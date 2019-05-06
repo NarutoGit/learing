@@ -1,4 +1,4 @@
-# learing
+# learning
 Becoming 1% better everyday
 
 :sparkles: **Welcome to My Learning Projects** :sparkles:
